@@ -1,5 +1,5 @@
-# HtmlRendererCore.PdfSharp
-HtmlRendererCore. Pdfsharp implements the standard class library from HTML to PDF based on the pdfsharpcore class library. 
+# HtmlRenderCore.PdfSharp
+HtmlRenderCore. Pdfsharp implements the standard class library from HTML to PDF based on the pdfsharpcore class library. 
 The project is rewritten based on the j-petty project. https://github.com/j-petty/HtmlRendererCore 。
 
 This library offers Html to Pdf parsing for .Net Core projects using [PdfSharpCore](https://github.com/ststeiger/PdfSharpCore).
